@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Build1.0.6V",
+    "\\Build1.0.6V\\src",
+    "\\Build1.0.6V\\src\\main",
+    "\\Build1.0.6V\\src\\main\\java",
+    "\\Build1.0.6V\\src\\main\\java\\com",
+    "\\Build1.0.6V\\src\\main\\java\\com\\platformer",
+    "\\Build1.0.6V\\src\\main\\java\\com\\platformer\\game",
+    "\\Build1.0.6V\\src\\main\\java\\com\\platformer\\game\\desktop",
+    "\\Build1.0.6V\\src\\main\\java\\com\\platformer\\game\\InputController"
+  ],
+  "SelectedNode": "\\Build1.0.6V\\src\\main\\java\\com\\platformer\\game\\desktop\\DesktopLauncher.java",
+  "PreviewInSolutionExplorer": false
+}
